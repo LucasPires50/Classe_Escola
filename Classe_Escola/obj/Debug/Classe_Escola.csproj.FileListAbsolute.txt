@@ -1,0 +1,14 @@
+C:\Users\a\source\repos\Classe_Escola\Classe_Escola\bin\Debug\Classe_Escola.exe.config
+C:\Users\a\source\repos\Classe_Escola\Classe_Escola\bin\Debug\Classe_Escola.exe
+C:\Users\a\source\repos\Classe_Escola\Classe_Escola\bin\Debug\Classe_Escola.pdb
+C:\Users\a\source\repos\Classe_Escola\Classe_Escola\obj\Debug\Classe_Escola.csprojAssemblyReference.cache
+C:\Users\a\source\repos\Classe_Escola\Classe_Escola\obj\Debug\Classe_Escola.csproj.CoreCompileInputs.cache
+C:\Users\a\source\repos\Classe_Escola\Classe_Escola\obj\Debug\Classe_Escola.exe
+C:\Users\a\source\repos\Classe_Escola\Classe_Escola\obj\Debug\Classe_Escola.pdb
+C:\Users\a\Desktop\Classe_Escola\Classe_Escola\bin\Debug\Classe_Escola.exe.config
+C:\Users\a\Desktop\Classe_Escola\Classe_Escola\bin\Debug\Classe_Escola.exe
+C:\Users\a\Desktop\Classe_Escola\Classe_Escola\bin\Debug\Classe_Escola.pdb
+C:\Users\a\Desktop\Classe_Escola\Classe_Escola\obj\Debug\Classe_Escola.csprojAssemblyReference.cache
+C:\Users\a\Desktop\Classe_Escola\Classe_Escola\obj\Debug\Classe_Escola.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\Classe_Escola\Classe_Escola\obj\Debug\Classe_Escola.exe
+C:\Users\a\Desktop\Classe_Escola\Classe_Escola\obj\Debug\Classe_Escola.pdb

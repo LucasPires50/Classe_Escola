@@ -1,0 +1,29 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Classe_Escola.Classe_2
+{
+   public class Casa
+    {
+        public string numeroCasa { get; set; }
+
+        public string NomeDaRua { get; set; }
+
+        public Biarro bairro { get; set; }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine($"Nome da rua: {NomeDaRua}");
+            sb.AppendLine($"Número da casa: {numeroCasa}");
+            
+            
+            
+
+            return sb.ToString();
+        }
+    }
+}
